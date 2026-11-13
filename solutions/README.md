@@ -1,16 +1,16 @@
-# Мои решения
+# My solutions
 
-Домашки и проекты по курсу [Production AI Agents for Media Generation](https://github.com/DataTalksClub/production-ai-agents-for-media-generation).
+Homework and projects for the [Production AI Agents for Media Generation](https://github.com/DataTalksClub/production-ai-agents-for-media-generation) course.
 
-Структура повторяет модули курса:
+The layout follows the course modules:
 
 - `01-consistent-media-generation-on-serverless-gpus/`
 - `02-multi-agent-media-workflows/`
 - `03-batch-media-generation-at-scale/`
 - `04-evaluation-observability-production/`
-- `project/` — финальный проект
+- `project/` — final project
 
-Обновить форк из основного репозитория:
+To pull new course material into this fork:
 
 ```bash
 git fetch upstream
