@@ -1,0 +1,50 @@
+id,tour_id,order,name,wiki_lang,wiki_title
+alex-01,alex-to-brandenburg-gate,1,Alexanderplatz,en,Alexanderplatz
+alex-02,alex-to-brandenburg-gate,2,Berlin TV Tower,en,Fernsehturm Berlin
+alex-03,alex-to-brandenburg-gate,3,St. Mary's Church,en,"St. Mary's Church, Berlin"
+alex-04,alex-to-brandenburg-gate,4,Red Town Hall,en,Rotes Rathaus
+alex-05,alex-to-brandenburg-gate,5,Nikolaiviertel,en,Nikolaiviertel
+alex-06,alex-to-brandenburg-gate,6,Berlin Cathedral,en,Berlin Cathedral
+alex-07,alex-to-brandenburg-gate,7,Museum Island,en,Museum Island
+alex-08,alex-to-brandenburg-gate,8,Neue Wache,en,Neue Wache
+alex-09,alex-to-brandenburg-gate,9,Bebelplatz,en,Bebelplatz
+alex-10,alex-to-brandenburg-gate,10,Brandenburg Gate,en,Brandenburg Gate
+wall-01,berlin-wall,1,Berlin Wall Memorial,en,Berlin Wall Memorial
+wall-02,berlin-wall,2,Chapel of Reconciliation,en,Chapel of Reconciliation
+wall-03,berlin-wall,3,Tunnel 57,en,Tunnel 57
+wall-04,berlin-wall,4,Nordbahnhof ghost station,en,Berlin Nordbahnhof
+wall-05,berlin-wall,5,Reichstag building,en,Reichstag building
+wall-06,berlin-wall,6,Potsdamer Platz,en,Potsdamer Platz
+wall-07,berlin-wall,7,Topography of Terror,en,Topography of Terror
+wall-08,berlin-wall,8,Checkpoint Charlie,en,Checkpoint Charlie
+wall-09,berlin-wall,9,East Side Gallery,en,East Side Gallery
+wall-10,berlin-wall,10,Oberbaum Bridge,en,Oberbaum Bridge
+kma-01,karl-marx-allee,1,Haus des Lehrers,de,Haus des Lehrers
+kma-02,karl-marx-allee,2,Kongresshalle,de,Kongresshalle (Berlin-Mitte)
+kma-03,karl-marx-allee,3,Kino International,en,Kino International
+kma-04,karl-marx-allee,4,Café Moskau,de,Café Moskau
+kma-05,karl-marx-allee,5,Strausberger Platz,en,Strausberger Platz
+kma-06,karl-marx-allee,6,Stalinallee and the 1953 uprising,en,Karl-Marx-Allee
+kma-07,karl-marx-allee,7,Hochhaus an der Weberwiese,de,Hochhaus an der Weberwiese
+kma-08,karl-marx-allee,8,Computer Games Museum,en,Computerspielemuseum Berlin
+kma-09,karl-marx-allee,9,Kino Kosmos,de,Kosmos (Berlin)
+kma-10,karl-marx-allee,10,Frankfurter Tor,en,Frankfurter Tor
+queer-01,queer-berlin,1,Nollendorfplatz,en,Nollendorfplatz
+queer-02,queer-berlin,2,Pink triangle plaque at Nollendorfplatz station,en,Nollendorfplatz station
+queer-03,queer-berlin,3,Nollendorfstraße and Christopher Isherwood,de,Nollendorfstraße
+queer-04,queer-berlin,4,Eldorado,en,Eldorado (Berlin)
+queer-05,queer-berlin,5,Motzstraße,de,Motzstraße
+queer-06,queer-berlin,6,Schwules Museum,en,Schwules Museum
+queer-07,queer-berlin,7,Memorial to Homosexuals Persecuted Under Nazism,en,Memorial to Homosexuals Persecuted Under Nazism
+queer-08,queer-berlin,8,Site of the Institute for Sexual Science,en,Institut für Sexualwissenschaft
+queer-09,queer-berlin,9,Victory Column,en,Berlin Victory Column
+kudamm-01,kurfuerstendamm,1,KaDeWe,en,KaDeWe
+kudamm-02,kurfuerstendamm,2,Europa-Center,en,Europa-Center
+kudamm-03,kurfuerstendamm,3,Kaiser Wilhelm Memorial Church,en,Kaiser Wilhelm Memorial Church
+kudamm-04,kurfuerstendamm,4,Zoo Palast,de,Zoo Palast
+kudamm-05,kurfuerstendamm,5,Zoologischer Garten station,en,Berlin Zoologischer Garten station
+kudamm-06,kurfuerstendamm,6,Amerika Haus,en,Amerika Haus Berlin
+kudamm-07,kurfuerstendamm,7,Café Kranzler,en,Café Kranzler
+kudamm-08,kurfuerstendamm,8,Fasanenstraße Synagogue,en,Fasanenstraße Synagogue
+kudamm-09,kurfuerstendamm,9,Haus Cumberland,en,Haus Cumberland
+kudamm-10,kurfuerstendamm,10,Schaubühne,en,Schaubühne

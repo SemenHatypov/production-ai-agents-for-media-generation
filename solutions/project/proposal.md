@@ -12,8 +12,9 @@
 - **Dataset source:** my own records about Berlin, a city I have visited. Other cities can be added later with the same schema. Stops come from openly licensed sources: Wikivoyage (lists and itineraries, CC BY-SA 4.0), Wikipedia (facts, CC BY-SA 4.0) and Wikidata (coordinates, CC0). The records hold only facts and links; source text is fetched at run time and not committed.
 - **Schema:**
   - `data/tours.csv`: `tour_id`, `city`, `theme`, `style_prompt`, `voice`, `audience`
-  - `data/stops.csv`: `id`, `tour_id`, `order`, `name`, `lat`, `lon`, `source_url`, `personal_note` (optional: one or two lines from my own visit, woven into the narration)
-- **Target batch size:** 100 stops (image + speech). The prototype starts with the 5 Berlin tours below at about 10 stops each (50 stops). It reaches 100 by adding stops to these tours or adding more Berlin tours. Every tour has enough open material: the Wikivoyage Berlin district articles (Mitte, East Central, City West) and a Wikipedia article for most stops.
+  - `data/stops_seed.csv`: `id`, `tour_id`, `order`, `name`, `wiki_lang`, `wiki_title` (hand-picked stops)
+  - `data/stops.csv`, built from the seed by `scripts/build_stops.py`: `id`, `tour_id`, `order`, `name`, `lat`, `lon`, `source_url`, `wikidata_id`, `personal_note` (optional: one or two lines from my own visit, woven into the narration)
+- **Target batch size:** 100 stops (image + speech). The prototype starts with the 5 Berlin tours below at about 10 stops each (49 stops in `data/stops.csv`). It reaches 100 by adding stops to these tours or adding more Berlin tours. Every tour has enough open material: the Wikivoyage Berlin district articles (Mitte, East Central, City West) and a Wikipedia article for most stops.
 
 | # | Tour | Style | Voice |
 |---|---|---|---|
